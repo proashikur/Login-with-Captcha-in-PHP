@@ -1,0 +1,20 @@
+.tableheader
+{
+	background-color: pink;
+	color: white;
+	font-weight: bold;
+}
+
+.tablerow
+{
+	background-color: #A7D6F1;
+	color: white;
+}
+
+.message
+{
+	color: #FF0000;
+	font-weight:bold;
+	text-align: center;
+	width: 100%;
+}
